@@ -14,7 +14,7 @@ import movie.Movie;
 
 public class TicketOrder {
     private final int ADULT_PRICE = 1800;
-    private final int CHILD_PRICE = 1500;
+    private final int CHILD_PRICE = 1300;
     private final int DISCOUNT_PRICE = 500;
 
     private Movie movie;
